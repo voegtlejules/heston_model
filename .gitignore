@@ -1,0 +1,9 @@
+# Environnement
+.venv/
+__pycache__/
+
+# Outils
+.ipynb_checkpoints/
+.ruff_cache/
+
+# Ressources (PDF de cours), exclues pour l'instant
